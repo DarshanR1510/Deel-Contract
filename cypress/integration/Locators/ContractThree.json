@@ -1,0 +1,3 @@
+{
+  "CurrencyCheck": "div[data-qa=full-amount] > .semi-bold"
+}

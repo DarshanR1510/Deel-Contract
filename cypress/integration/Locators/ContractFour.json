@@ -1,0 +1,6 @@
+{
+  "SpecialClauseBtn": ".button > div",
+  "SpecialClauseText": "add a special clause",
+  "TextArea": ".textarea-container",
+  "NextBtn": ".button.mt-7.w-100"
+}

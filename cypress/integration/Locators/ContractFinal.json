@@ -1,0 +1,7 @@
+{
+  "ContractName": ".editable-text > h1",
+  "ContractType": "[data-qa=contract-type] > h4",
+  "JobTitle": "[data-qa=job-title] >  h4",
+  "SeniorityLevel": "[data-qa=seniority-level] > h4",
+  "Rate": "[data-qa=rate] > h4"
+}

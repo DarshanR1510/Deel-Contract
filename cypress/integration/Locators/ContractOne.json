@@ -1,0 +1,13 @@
+{
+  "ProgressBarIcon": ".icon.unselectable.mr-5.color-primary",
+  "ContractName": "input[name=name]",
+  "JobTitle": "input[name=jobTitle]",
+  "SuggestionBox": ".suggestions-box",
+  "SeniorityLevel": ".select__control.css-yk16xz-control",
+  "SelectSeniority": "#react-select-2-option-2",
+  "WorkScope": ".icon.unselectable.scopes-dropdown-icon.flex",
+  "ScopeBox": ".scope-box",
+  "ContractDateBox": ".chevron.self-end",
+  "DateSelection": ".react-calendar__tile.react-calendar__month-view__days__day",
+  "SubmitBtn": "[type=submit]"
+}

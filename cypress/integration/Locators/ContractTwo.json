@@ -1,0 +1,7 @@
+{
+  "Rate": "input[name=rate]",
+  "CurrencyDropDown": "div[data-qa=currency-select] > div > .select.w-100.css-2b097c-container",
+  "CurrencyIcon": "div[title=title] > span",
+  "CycleDropDown": "div[data-qa=cycle-select] > div > .select.w-100.css-2b097c-container",
+  "SubmitBtn": "[type=submit]"
+}

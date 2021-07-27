@@ -1,0 +1,11 @@
+[ {
+  "uid" : "95251f75198f69f6",
+  "name" : "Fixed Contract Creation and Validation",
+  "time" : {
+    "start" : 1627412873468,
+    "stop" : 1627412918476,
+    "duration" : 45008
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

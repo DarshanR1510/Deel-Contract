@@ -1,0 +1,5 @@
+{
+  "popupClose": ".button.button-close",
+  "sidebarOption": ".sidebar-option-p",
+  "fixedRateOption": ":nth-child(1) > .anchor > .box"
+}

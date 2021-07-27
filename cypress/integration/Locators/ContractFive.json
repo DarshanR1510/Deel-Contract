@@ -1,0 +1,4 @@
+{
+  "CountryName": "div[data-qa=contractor-tax-residence] > div > .select.w-100.css-2b097c-container",
+  "ProvinceName": "div[data-qa=contractor-tax-residence-province] > div > .select.w-100.css-2b097c-container"
+}

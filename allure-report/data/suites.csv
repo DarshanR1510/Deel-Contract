@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jul 27 21:07:53 CEST 2021","Tue Jul 27 21:08:38 CEST 2021","45008","","Test Suite - Create Fixed Contract","","","","Fixed Contract Creation and Validation",""
